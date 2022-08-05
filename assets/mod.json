@@ -1,11 +1,11 @@
 {
-  "name": "modtemplate",
-  "displayName": "Template",
-  "author": "[#8738ff[]]Sonnicon[[]]",
-  "description": "Gradle jar Mindustry mod template",
-  "version": "0",
-  "main": "sonnicon.modtemplate.ModTemplate",
-  "minGameVersion": "105",
+  "name": "logicplus",
+  "displayName": "Logic Plus",
+  "author": "PlanetSat0rn",
+  "description": "Java modding is a mess, prob should've sticked to hjson but who cares.",
+  "version": "1",
+  "main": "planetsat0rn.logicplus.LogicPlus",
+  "minGameVersion": "135",
   "dependencies": [],
   "hidden": false,
   "java": true
