@@ -1,8 +1,8 @@
-package planetsat0rn.logicplus;
+package planetsat0rn.mindufunplus;
 
 import mindustry.mod.Mod;
 
-public class LogicPlus extends Mod{
+public class MinduFunPlus extends Mod{
 
     @Override
     public void init(){
